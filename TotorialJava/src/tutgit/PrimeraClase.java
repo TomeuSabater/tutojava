@@ -10,6 +10,9 @@ public class PrimeraClase {
 		
 		String nombre = "Tomeu";
 		System.out.println("Hola" + nombre);
+		
+		String empresa = "CESUR";
+		System.out.println("Hola "+ nombre + " que trabajas en " + empresa); 
 
 	}
 
